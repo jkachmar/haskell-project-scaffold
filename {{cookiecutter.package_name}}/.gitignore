@@ -1,0 +1,12 @@
+.stack-work/
+cabal.project.local*
+*~
+stack*.yaml.lock
+
+dist/
+dist-newstyle/
+result/
+result
+.ghc.environment*
+
+TAGS

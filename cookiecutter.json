@@ -1,0 +1,7 @@
+{
+  "package_name": null,
+  "github_repo_name": "{{cookiecutter.package_name}}",
+  "github_username": "",
+  "author_name": "{{cookiecutter.github_username}}",
+  "author_email": ""
+}
